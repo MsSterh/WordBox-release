@@ -5,7 +5,12 @@ WordBox is a small RN-application for learning words by [Leitner system](https:/
 Current repository contains release files in 'release' folder and example of used data in 'data' folder.
 Release version for Android compiled for sdk-version 34 with minimal sdk-version 21.
 
-Visit 'screenshots' folder to look how the apps should look.
+Visit 'screenshots' folder to look how the apps should look:
+
+<div align="center">
+    <img src="/screenshots/image1.jpg" width="200px"</img>
+    <img src="/screenshots/image2.jpg" width="200px"</img>
+</div>
 
 ## Data
 
